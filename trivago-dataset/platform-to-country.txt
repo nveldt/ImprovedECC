@@ -1,0 +1,56 @@
+Platform, Country
+AA, Aruba
+AE, United Arab Emirates
+AR, Argentina
+AT, Austria
+AU, Australia
+BE, Belgium
+BG, Bulgaria
+BR, Brazil
+CA, Canada
+CH, Switzerland
+CL, Chile
+CN, China
+CO, Colombia
+CZ, Czech Republic
+DE, Germany
+DK, Denmark
+EC, Ecuador
+ES, Spain
+FI, Finland
+FR, France
+GR, Greece
+HK, Hong Kong
+HR, Croatia
+HU, Hungary
+ID, Indonesia
+IE, Ireland
+IL, Israel
+IN, India
+IT, Italy
+JP, Japan
+KR, South Korea
+MX, Mexico
+MY, Malaysia
+NL, Netherlands
+NO, Norway
+NZ, New Zealand
+PE, Peru
+PH, Philippines
+PL, Poland
+PT, Portugal
+RO, Romania
+RS, Serbia
+RU, Russia
+SE, Sweden
+SG, Singapore
+SI, Slovenia
+SK, Slovakia
+TH, Thailand
+TR, Turkey
+TW, Taiwan
+UK, United Kingdom
+US, USA
+UY, Uruguay
+VN, Vietnam
+ZA, South Africa

@@ -1,0 +1,9 @@
+Country code websites:
+
+https://www.iban.com/country-codes
+
+(does not have answer to AA or UK)
+
+Another one:
+
+https://www.worlddata.info/countrycodes.php
